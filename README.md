@@ -23,6 +23,7 @@ Internal Storage | 256 GB (UFS 2.1) |
 ![Ulefone Power Armor 20WT](https://fdn2.gsmarena.com/vv/pics/ulefone/ulefone-power-armor-19t-2.jpg)
 
 ### Status
+[<img align="center" src="https://github.com/lopestom/twrp_device_ulefone_Armor_20WT/actions/workflows/New2_twrp.yml/badge.svg?branch=android-11" />](https://github.com/lopestom/twrp_device_ulefone_Armor_20WT/actions/workflows/New2_twrp.yml)
 
 The tester only install `vendor_boot-Armor_20WT-20230818.img` file to know if working.
 <details><summary>History - Click to open</summary>
