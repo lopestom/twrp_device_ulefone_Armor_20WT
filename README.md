@@ -18,7 +18,7 @@ Specs [here](https://www.gsmarena.com/ulefone_power_armor_20wt-12195.php)
 Description | Specification
 -------:|:-------------------------
 Shipped Android Version | 12
-Internal Storage | 256 GB (UFS 2.1)
+Internal Storage | 256 GB (UFS 2.1) |
 
 ![Ulefone Power Armor 20WT](https://fdn2.gsmarena.com/vv/pics/ulefone/ulefone-power-armor-19t-2.jpg)
 
