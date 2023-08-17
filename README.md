@@ -1,14 +1,13 @@
 [![GitHub Release](https://img.shields.io/github/release/lopestom/twrp_device_ulefone_Armor_20WT.svg?logo=github)](https://github.com/lopestom/twrp_device_ulefone_Armor_20WT/releases) [![GPLv3+](https://img.shields.io/badge/license-GPLv3+-red.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
-
+-------------------------------
 # TWRP device tree for Ulefone Power Armor 20WT - Helio G99 - MT6789 - A12
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?token=Cxr1xP4Yr_XgV2E5lpC6Oo4qvbqmPiS3TgR6aiMEnQUgxr_nP242Z6zMqzeluThwaikNL-FXe8RnA1pT) to TeamWin so any donation is highly appreciated!
 
 ## Status
-
 This branch android-12.1 has ***encrypt/decrypt*** files and option to more test with that.
 
 [![download](https://img.shields.io/github/downloads/lopestom/twrp_device_ulefone_Armor_20WT/total)](https://github.com/lopestom/twrp_device_ulefone_Armor_20WT/releases/download/Ulefone_Armor_20WT/vendor_boot-Armor_20WT-20230817.img)
-
+-------------------------------
 ### Firmware version: GQ3060TF3_KSE7_Ulefone_20230319_V01-Non-EU.zip -- E7S6TA7.GQU.Ulefone_WT.HB.HJ.UL.20230307.V3.01
 GQ3060TF3_KSE7_Ulefone_20230320_V01
 
@@ -21,7 +20,7 @@ Shipped Android Version | 12
 Internal Storage | 256 GB (UFS 2.1) |
 
 ![Ulefone Power Armor 20WT](https://fdn2.gsmarena.com/vv/pics/ulefone/ulefone-power-armor-19t-2.jpg)
-
+-------------------------------
 ### Status
 [<img align="center" src="https://github.com/lopestom/twrp_device_ulefone_Armor_20WT/actions/workflows/New2_twrp.yml/badge.svg?branch=android-11" />](https://github.com/lopestom/twrp_device_ulefone_Armor_20WT/actions/workflows/New2_twrp.yml)
 
