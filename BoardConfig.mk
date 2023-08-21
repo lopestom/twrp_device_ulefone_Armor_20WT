@@ -221,7 +221,7 @@ TW_HAS_MTP := true
 
 # Vibrator
 TW_NO_HAPTICS := true
-TW_LOAD_VENDOR_MODULES := "panel-fhd-hx8399c-vdo.ko"
+TW_LOAD_VENDOR_MODULES := "mtk_panel_ext.ko panel-fhd-hx8399c-vdo.ko panel-fhd-hx8399cgms-vdo.ko"
 #TW_SUPPORT_INPUT_AIDL_HAPTICS := true
 #TW_SUPPORT_INPUT_AIDL_HAPTICS_FQNAME := "IVibrator/default"
 
