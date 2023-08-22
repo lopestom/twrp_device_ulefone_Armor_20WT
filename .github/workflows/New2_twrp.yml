@@ -92,7 +92,7 @@ jobs:
       env:
        GITHUB_TOKEN: ${{ secrets.TEST }}
       with:
-       tag_name: Ulefone_Armor_20WT
-       name: TWRP37x_12
+       tag_name: Ulefone_Armor_20WT-V3.03
+       name: TWRP37x_12.2
        files: | 
          twrp/out/target/product/Armor_20WT/*boot*.img
